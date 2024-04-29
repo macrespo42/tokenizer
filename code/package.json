@@ -1,0 +1,26 @@
+{
+  "name": "tokenizer",
+  "version": "1.0.0",
+  "description": "CoinCoin42 token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/macrespo42/tokenizer.git"
+  },
+  "author": "macrespo42",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macrespo42/tokenizer/issues"
+  },
+  "homepage": "https://github.com/macrespo42/tokenizer#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
