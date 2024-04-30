@@ -1,6 +1,6 @@
 # CoinCoin42 Token Documentation
 
-![CoinCoin42 logo](assets/CoinCoin42.jpg)
+![CoinCoin42 logo](assets/coincoin42.jpg)
 
 ## Introduction
 
