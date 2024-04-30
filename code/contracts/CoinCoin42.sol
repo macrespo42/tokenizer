@@ -31,6 +31,10 @@ contract CoinCoin42 is ERC20Capped {
       blockReward = reward * (10**decimals());
     }
 
+    function burn(address account, uint256 value) public onlyOwner {
+        _burn(account, value);
+    }
+
     modifier onlyOwner {
       require(msg.sender == owner, "Only the owner can call this function");
       _;

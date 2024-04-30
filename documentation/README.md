@@ -27,6 +27,7 @@ CoinCoin42 tokens can be used at all participating forests, parks, and similar l
 - Transfers: CoinCoin tokens can be transferred between compatible wallets.
 - Capped: Coincoin is capped at 42,000,000 tokens
 - Fungible: Coincoin Tokens are all the same
+- Burnable: Owner can burn tokens
 
 ## Usage Instructions
 
