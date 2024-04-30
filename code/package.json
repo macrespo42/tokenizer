@@ -18,6 +18,8 @@
   "homepage": "https://github.com/macrespo42/tokenizer#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "eslint": "^9.1.1",
     "hardhat": "^2.22.3"
   },
   "dependencies": {
