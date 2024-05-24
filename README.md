@@ -26,7 +26,7 @@ It can be use for NFT for example.
 ## Deployment
 
 Sepolia Testnet. It's the latest Testnet of ethereum blockchain perfect to deploy our token
-without paying real money.
+without paying real money !
 You can find more information on deployment in the deployment directory.
 
 ## Project structure
